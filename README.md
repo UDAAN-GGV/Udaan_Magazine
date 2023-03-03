@@ -1,5 +1,5 @@
-# PDF Viewer
-PDF viewer with flip-book interface integration to allow read files flipping pages like a book.
+# Udaan_Magazine
+PDF viewer of Udaan_Magazine with flip-book interface integration to allow read files flipping pages like a book.
 
 ## Info
 This is a web viewer written in javascript with no external dependencies. It works with almost every browser.
